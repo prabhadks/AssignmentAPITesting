@@ -38,7 +38,7 @@ Here's a breakdown of the key test scenarios and their validation strategies wit
 **Note:**
 
 * The `test_errors` function is a **single, parameterized test** designed to cover various error scenarios across different endpoints. It takes the endpoint, request parameters, expected error code, and error type as parameters.
-* Similarly, `test_get_latest_rates` is a **parameterized test** covering multiple valid input data sets for the Latest Rates API.---
+* Similarly, `test_get_latest_rates` is a **parameterized test** covering multiple valid input data sets for the Latest Rates API.
 
 ## 📁 Project Structure
 
