@@ -21,13 +21,7 @@ This project provides a robust framework for validating critical API endpoints. 
 
 Below is a short GIF demonstrating a test run or a key API interaction validated by this framework.
 
-![Demo of API Test Execution]()
-
-## 📊 Example Test Cases
-
-Here's are the tests and validations performed in this framework:
-
----
+![Demo of API Test Execution](https://github.com/prabhadks/AssignmentAPITesting/blob/master/testresults/APITestingAssignment.gif)
 
 ## 📊 Example Test Cases
 
@@ -122,7 +116,7 @@ To set up and run this API validation framework on your local machine, follow th
 ### **Installation**
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL_HERE]
+    git clone [https://github.com/prabhadks/AssignmentAPITesting.git]
     cd AssignmentAPITesting
     ```
 2.  **Create and activate a Python virtual environment:**
