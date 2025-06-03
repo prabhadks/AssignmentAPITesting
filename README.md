@@ -116,7 +116,7 @@ To set up and run this API validation framework on your local machine, follow th
 ### **Installation**
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/prabhadks/AssignmentAPITesting.git]
+    git clone https://github.com/prabhadks/AssignmentAPITesting.git
     cd AssignmentAPITesting
     ```
 2.  **Create and activate a Python virtual environment:**
